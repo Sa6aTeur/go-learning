@@ -1,0 +1,12 @@
+{
+    "age": 23,
+    "anotherKey":["value1","value2"],
+    "struct":{
+        "insideStruct":{
+            "sliceInsideStruct":["value1","value2"],
+            "sliceInsideStruct1":["value1","value2"],
+            "sliceInsideStruct2":["value1","value2"],
+            "sliceInsideStruct3":["value1","value2"]
+        }
+    }
+}
