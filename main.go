@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go-learning/tasks"
+	"go-learning/structures"
 )
 
 func main() {
@@ -14,5 +14,6 @@ func main() {
 	// tasks.FindIpV4()
 	// tasks.FindWrongIpV4()
 	// tasks.RunKeyValue()
-	tasks.ReadAndWriteJson()
+	// tasks.ReadAndWriteJson()
+	binary_tree.TestTreeLogic()
 }
